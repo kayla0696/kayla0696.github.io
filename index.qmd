@@ -1,11 +1,19 @@
 ---
-title: "kayla0696.github.io"
+title: "Kayla Sutton"
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/kayla-sutton96
+    - text: GitHub
+      href: https://github.com/kayla0696
+    - text: Email
+      href: mailto::kayla96@colostate.edu
 ---
 
-This is a Quarto website.
+![](images/PXL_20240915_022319938.jpg)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hello! I'm Kayla and I'm passionate about the environment. I'm just two semesters away from finishing my degree and I can't wait to see where it takes me. Let's build a better world together!

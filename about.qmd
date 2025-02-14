@@ -1,9 +1,13 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+![](images/PXL_20240205_021104244_exported_1184_1707099096064.jpg)
 
-```{r}
-1 + 1
-```
+![](images/PXL_20240415_050110272.MP.jpg)
+
+The most important thing to know about me – I love my cats!
+
+I've loved animals my whole life. When I was kid, I wanted to be a veterinarian - specifically for cats! But then, in high school, I was introduced to the theory of climate change and how it's affecting the animals; the seasons are changing and animals can't adapt, natural disasters are more frequent and deadly, and food shortages are causing animals to starve. And it's not just animals, it's humans too!
+
+Needless to say, I was deeply affected. That's when I decided to dedicate my life to fighting for climate justice. Because I want to see a better world for everyone on it – plants, animals, and humans alike.

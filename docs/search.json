@@ -1,16 +1,30 @@
 [
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Kayla Ann Sutton\nkayla96@colostate.edu\nhttps://www.linkedin.com/in/kayla-sutton-612b4a184/\nEducation —————————————————————————————————————-\n·        Colorado State University – Fort Collins, CO (2022 – present)\n\nSenior in Ecosystem Science & Sustainability\nGraduating Fall 2025\nParticipating member of multiple clubs and organizations, including ESS Club, Adult Learner and Veteran Services, and Community for Excellence\n\nProfessional Experience ——————————————————————————————–\n\nDietary Aide – Columbine Health Systems, Fort Collins, CO (May 2024 – Present)\n\nProvided customer service to residents and visitors, assisting with food selections and meal inquiries.\nAssisted kitchen staff with meal preparation, organization, and dining area setup to meet residents’ needs.\nMaintained cleanliness by operating dishwashing equipment, sanitizing utensils, and restocking supplies.\nEnsured kitchen security and safety by closing operations, locking doors, and shutting down appliances.\n\n\n\nResearch Assistant – Colorado State University, Fort Collins, CO (June 2024 – December 2024)\n\nAssisted in soil research by processing, labeling, and cataloging samples for analysis.\nOperated high-temperature ovens and sieved soil to separate organic material for further study.\nMaintained laboratory organization and equipment cleanliness to ensure research efficiency.\n\n\n\nLaboratory Intern – Colorado State University, Fort Collins, CO (January 2023 – April 2023)\n\nConducted PCR and spectrophotometry to analyze biological samples.\nCollected, labeled, and processed specimens while adhering to safety regulations.\nCompiled and presented data from a personal research project.\nMaintained a sterile laboratory environment, ensuring compliance with protocols.\n\nSkills & Proficiencies ———————————————————————————————\n\nProgramming & Data Analysis: Python, R\nGeospatial Analysis: ArcGIS, Carto, Google Earth Pro, QGIS, ArcGIS Online\nProfessional Communication: Strong written and verbal communication skills, technical writing\nTime Management: Ability to prioritize tasks, meet deadlines, and balance multiple projects\nProject Management: Planning, coordination, and execution of research and environmental projects\nLeadership: Experience in team coordination, mentoring, and decision-making\nCritical Thinking: Analytical problem-solving, data interpretation, and strategic decision-making\n\nStatistical Analysis: Data modeling, hypothesis testing, and trend analysis"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "kayla0696.github.io",
+    "title": "Kayla Sutton",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! I’m Kayla and I’m passionate about the environment. I’m just two semesters away from finishing my degree and I can’t wait to see where it takes me. Let’s build a better world together!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "The most important thing to know about me – I love my cats!\nI’ve loved animals my whole life. When I was kid, I wanted to be a veterinarian - specifically for cats! But then, in high school, I was introduced to the theory of climate change and how it’s affecting the animals; the seasons are changing and animals can’t adapt, natural disasters are more frequent and deadly, and food shortages are causing animals to starve. And it’s not just animals, it’s humans too!\nNeedless to say, I was deeply affected. That’s when I decided to dedicate my life to fighting for climate justice. Because I want to see a better world for everyone on it – plants, animals, and humans alike."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "CSU Projects",
+    "section": "",
+    "text": "In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links!   \n\n## [Building a project website]()  \n- In this assignment we built a static users site with Github Pages  \n- Includes a github repo for access to all the code. \n- Look at how high quality my work is!"
   }
 ]

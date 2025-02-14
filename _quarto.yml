@@ -1,18 +1,25 @@
 
 
 website:
-  title: "kayla0696.github.io"
+  title: "Kayla Sutton"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - projects.qmd
+      - resume.qmd
+  page-footer:
+    background: light
+    left: Copyright 2025, Kayla Sutton
+    right: This website is built with love
+
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: styles.scss
     toc: true
+    page-layout: full
 
 editor: visual
 
